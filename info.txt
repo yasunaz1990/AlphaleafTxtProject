@@ -1,0 +1,5 @@
+// Shopping list for java 
+- Java Code book 
+- Java collection library
+- Intellij Pro
+- CodeDebbuger 
