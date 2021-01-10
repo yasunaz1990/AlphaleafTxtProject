@@ -3,3 +3,9 @@
 - Java collection library
 - Intellij Pro
 - CodeDebbuger 
+
+// Shopping list for compay
+- Monitor 
+- Desks
+- Laptops 
+- Network gears
